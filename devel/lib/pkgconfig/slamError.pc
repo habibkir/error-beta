@@ -1,0 +1,1 @@
+/home/troia/Ros/error/devel/.private/slamError/lib/pkgconfig/slamError.pc

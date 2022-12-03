@@ -1,0 +1,6 @@
+devel_space: /home/troia/Ros/error/devel
+install: false
+install_space: /home/troia/Ros/error/install
+profile: default
+source_space: /home/troia/Ros/error/src
+workspace: /home/troia/Ros/error

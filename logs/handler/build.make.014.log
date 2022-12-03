@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target handler_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/handler_node.dir/src/handler.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/troia/Ros/error/devel/.private/handler/lib/handler/handler_node[0m
+[100%] Built target handler_node

@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target handler_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/handler_node.dir/src/handler.cpp.o[0m
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:[m[K In function ‘[01m[Kvoid error_slam_call(const ConstPtr&)[m[K’:
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:23:9:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+   23 |   Logger[01;31m[K.[m[Klog("Track Lost");
+      |         [01;31m[K^[m[K
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:28:9:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+   28 |   Logger[01;31m[K.[m[Klog("Tracker Loster");
+      |         [01;31m[K^[m[K
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:33:9:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+   33 |   Logger[01;31m[K.[m[Klog("WAAAAAAAH")
+      |         [01;31m[K^[m[K
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:54:8:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K.[m[K’ token
+   54 |  Logger[01;31m[K.[m[Kinit("sto.cazzo");
+      |        [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/handler_node.dir/build.make:63: CMakeFiles/handler_node.dir/src/handler.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/handler_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

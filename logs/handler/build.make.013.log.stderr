@@ -1,0 +1,8 @@
+/usr/bin/ld: CMakeFiles/handler_node.dir/src/handler.cpp.o: in function `Logger::init(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)':
+handler.cpp:(.text._ZN6Logger4initENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE[_ZN6Logger4initENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE]+0x51): undefined reference to `Logger::os'
+/usr/bin/ld: CMakeFiles/handler_node.dir/src/handler.cpp.o: in function `Logger::log(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)':
+handler.cpp:(.text._ZN6Logger3logENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE[_ZN6Logger3logENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE]+0x1b): undefined reference to `Logger::os'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/handler_node.dir/build.make:101: /home/troia/Ros/error/devel/.private/handler/lib/handler/handler_node] Error 1
+make[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/handler_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

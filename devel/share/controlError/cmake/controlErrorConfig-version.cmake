@@ -1,0 +1,1 @@
+/home/troia/Ros/error/devel/.private/controlError/share/controlError/cmake/controlErrorConfig-version.cmake

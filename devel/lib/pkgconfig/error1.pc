@@ -1,0 +1,1 @@
+/home/troia/Ros/error/devel/.private/error1/lib/pkgconfig/error1.pc

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target error2_nodo_qualcosa[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/error2_nodo_qualcosa.dir/surs/error2.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/troia/Ros/error/devel/.private/error2/lib/error2/error2_nodo_qualcosa[0m
+[100%] Built target error2_nodo_qualcosa

@@ -1,0 +1,7 @@
+[01m[K/home/troia/Ros/error/src/controlError/surs/controlError.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/troia/Ros/error/src/controlError/surs/controlError.cpp:25:3:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[Kcontatore[m[K’
+   25 |   [01;31m[Kcontatore[m[K++;
+      |   [01;31m[K^~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/controlError_node.dir/build.make:63: CMakeFiles/controlError_node.dir/surs/controlError.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:155: CMakeFiles/controlError_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

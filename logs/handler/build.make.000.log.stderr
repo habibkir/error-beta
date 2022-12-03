@@ -1,0 +1,10 @@
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:17:18:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kros::Subscriber sub[m[K’
+   17 |  ros::Subscriber [01;31m[Ksub[m[K = node_handle.subscribe("error2",1000,error2Call);
+      |                  [01;31m[K^~~[m[K
+[01m[K/home/troia/Ros/error/src/handler/src/handler.cpp:16:18:[m[K [01;36m[Knote: [m[K‘[01m[Kros::Subscriber sub[m[K’ previously declared here
+   16 |  ros::Subscriber [01;36m[Ksub[m[K = node_handle.subscribe("error1",1000,error1Call);
+      |                  [01;36m[K^~~[m[K
+make[2]: *** [CMakeFiles/handler_node.dir/build.make:63: CMakeFiles/handler_node.dir/src/handler.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/handler_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

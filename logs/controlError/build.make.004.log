@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target controlError_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/controlError_node.dir/surs/controlError.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/troia/Ros/error/devel/.private/controlError/lib/controlError/controlError_node[0m
+[100%] Built target controlError_node
